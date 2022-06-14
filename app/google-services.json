@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "394450332616",
+    "project_id": "safesmartkitchen",
+    "storage_bucket": "safesmartkitchen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394450332616:android:94eb8b01986dbb27c42efd",
+        "android_client_info": {
+          "package_name": "com.example.smartandsafekitchen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394450332616-vpl8gkbqbrom0tgerit3neg5rmifocmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCH9JzWBEnpEWmNDfPAwbq5YZvZiMkwjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394450332616-vpl8gkbqbrom0tgerit3neg5rmifocmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
